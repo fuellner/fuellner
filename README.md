@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frederic @fuellner
 - 👀 I’m interested in PHP, SQL, Python and all things programming
-- 🌱 I’m currently learning Python technologies and PHP frameworks
-- 💞️ I’m looking to collaborate on nice and useful projects
+- 🌱 I’m currently learning different Python technologies and PHP frameworks
+- 💞️ I’m looking to collaborate on useful projects written in PHP and/or Python
 - 📫 How to reach me ...
 
 <!---
